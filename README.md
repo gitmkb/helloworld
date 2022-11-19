@@ -1,4 +1,4 @@
-## helloworld
-### Ideas, Resources etcetra
+### helloworld
+#### Ideas, Resources etcetra
 
-Respository to store links to GitHub resources.
+A repository to store links to GitHub resources.
